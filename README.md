@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/kdev307-0F3D2E?style=plastic&logo=github&logoColor=0F0F0F&labelColor=9FE2BF" alt="GitHub">
 </a>
 &nbsp;
-<a href="https://kdev307.github.io/portfolio-v2/">
+<a href="https://kdev307.github.io/portfolio-v2/" target="_blank">
 <img src="https://img.shields.io/badge/.dev-00001A?style=plastic&logo=googlechrome&logoColor=black&labelColor=E6E6FF" alt="Portfolio">
 </a>
 
@@ -29,8 +29,8 @@
 
 - An engineer driven by **curiosity**, **exploring systems**, **learning continuously**, and **contributing** through what I build.
 - I'm interested in technology, software, problem-solving, and the process of turning an idea into something real.
-- Focussed on front-end, but explores too.
-- <b>Open to Contribute & Grow</b>
+- Front-end focused, always exploring.
+- <b>Open to contributing, learning, and growing.</b>
 
 ## 💻 Toolbox
 
