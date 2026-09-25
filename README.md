@@ -14,10 +14,20 @@
 </a>
 
 <br/>
-<img
-  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
-  alt="GitHub Contribution Activity"
-/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/kdev307/kdev307/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/kdev307/kdev307/output/github-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/kdev307/kdev307/output/github-snake.svg"
+    alt="GitHub contribution snake"
+  />
+</picture>
 
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=kdev307&theme=vue-dark&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 
