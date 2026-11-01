@@ -149,15 +149,31 @@ A collection of technologies and tools I've used across work, projects, and expe
 
 <div align="center">
 <a href="https://github.com/kdev307" target="_blank">
-<img src="https://img.shields.io/badge/Github-000000?style=plastic&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-000000?style=plastic&logo=github&logoColor=white" alt="GitHub">
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/kdev307" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 &nbsp;
-<a href="https://codepen.io/kdev307" target="_blank"> 
+<a href="https://codepen.io/kdev307" target="_blank">
 <img src="https://img.shields.io/badge/CodePen-000000?style=plastic&logo=codepen&logoColor=white" alt="CodePen">
+</a>
+&nbsp;
+<a href="https://www.hackerrank.com/profile/kdev_307" target="_blank">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=plastic&logo=hackerrank&logoColor=black" alt="HackerRank">
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/kdev307/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=plastic&logo=leetcode&logoColor=black" alt="LeetCode">
+</a>
+&nbsp;
+<a href="https://www.geeksforgeeks.org/profile/kdev307" target="_blank">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=plastic&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks">
+</a>
+&nbsp;
+<a href="https://kdev307.medium.com/" target="_blank">
+<img src="https://img.shields.io/badge/Medium-000000?style=plastic&logo=medium&logoColor=white" alt="Medium">
 </a>
 &nbsp;
 <a href="mailto:kr30.dev@gmail.com">
